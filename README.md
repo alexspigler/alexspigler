@@ -10,8 +10,8 @@ I'm a junior at George Washington University pursuing a **BS in Statistics** and
 
 ## Technical Skills
 
-**Languages:** Python, R, SQL, SAS, Java
-**Statistical Methods:** Time series analysis, Bayesian probability, regression modeling, experimental design
+**Languages:** Python, R, SQL, SAS, Java  
+**Statistical Methods:** Time series analysis, Bayesian probability, regression modeling, experimental design  
 **Tools & Libraries:** NumPy, SciPy, Matplotlib, pandas, tidyverse, ggplot2
 
 ## About Me
