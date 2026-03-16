@@ -1,5 +1,4 @@
 ## Alex Spigler
 
-Statistics (BS) & Computer Science (BA), Mathematics Minor · GWU '27
-
-[alexspigler.dev](https://alexspigler.dev)
+![Custom2 attractor](images/Custom3.png)
+*Generated with [Chaotic Attractors](https://github.com/alexspigler/chaotic-attractors)*
