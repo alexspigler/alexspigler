@@ -2,13 +2,13 @@
   <tr>
     <td align="center">
       <img src="images/Custom3.png" alt="Custom3 chaotic attractor" width="400">
-      <br>
-      <sub>Custom3 attractor</sub>
+      <br><br>
+      <samp>Custom3 attractor</samp>
     </td>
     <td align="center">
       <img src="images/Tinkerbell.png" alt="Tinkerbell chaotic attractor" width="400">
-      <br>
-      <sub>Tinkerbell attractor</sub>
+      <br><br>
+      <samp>Tinkerbell attractor</samp>
     </td>
   </tr>
 </table>
